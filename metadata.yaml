@@ -1,0 +1,30 @@
+_repo: The-Mathematical-Analysis-of-LogicBeing-an-Essay-Towards-a-Calculus-of-Deductive-Reasoning_36884
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boole, George
+    birthdate: 1815
+    deathdate: 1864
+    gutenberg_agent_id: '5861'
+    url: http://www.gutenberg.org/2009/agents/5861
+    wikipedia: http://en.wikipedia.org/wiki/George_Boole
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2011-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36884'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Logic'
+- !lcc 'BC'
+title: 'The Mathematical Analysis of Logic
+
+  Being an Essay Towards a Calculus of Deductive Reasoning'
+url: http://www.gutenberg.org/ebooks/36884
