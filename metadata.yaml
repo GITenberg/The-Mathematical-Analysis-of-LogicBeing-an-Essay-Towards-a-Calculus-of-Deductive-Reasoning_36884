@@ -26,6 +26,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Logic'
 - !lcc 'BC'
+- GITenberg
 title: 'The Mathematical Analysis of Logic
 
   Being an Essay Towards a Calculus of Deductive Reasoning'
